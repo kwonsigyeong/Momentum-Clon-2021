@@ -1,0 +1,6 @@
+.quote {
+  float: right;
+  position: static;
+  font-size: 20px;
+  color: white;
+}

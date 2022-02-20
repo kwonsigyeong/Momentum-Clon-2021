@@ -1,0 +1,8 @@
+.weather-div {
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
+  color: #fff;
+  font-size: 25px;
+  margin: 9px;
+}
